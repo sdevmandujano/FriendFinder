@@ -1,0 +1,166 @@
+
+var friends = [
+  {
+      "name":"Gaben",
+      "photo":"https://i.gadgets360cdn.com/large/Gabe_Newell_1484763796244.jpg?output-quality=80",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Todd",
+  "photo":"https://i.kym-cdn.com/entries/icons/original/000/017/752/286.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Miyamoto",
+  "photo":"https://venturebeat.com/wp-content/uploads/2015/07/miyamoto_luigi.jpg?fit=578%2C385&strip=all",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Chabelo",
+  "photo":"https://cdn.oem.com.mx/elesto/2018/03/DY6A59tX0AUqpXO-600x501.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"John",
+  "photo":"https://cdn.uploadvr.com/wp-content/uploads/2017/02/john-carmack-featured-1024x683.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Reggie",
+  "photo":"https://i.kym-cdn.com/photos/images/newsfeed/000/444/233/733.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Alex",
+  "photo":"https://pbs.twimg.com/profile_images/798632247762948096/ycGYVWvr_400x400.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Luis",
+  "photo":"https://elpais.com/elpais/imagenes/2017/05/04/videos/1493915238_737920_1493920006_noticia_fotograma.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Stanley",
+  "photo":"https://3m84r11gpx1j11puas2g5wfl-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/kubrick-larg.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Floyd",
+  "photo":"http://www.bostonherald.com/sites/default/files/media/2009/09/19/30floyd.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+
+
+module.exports = friends;
